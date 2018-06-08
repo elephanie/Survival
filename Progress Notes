@@ -1,4 +1,5 @@
 Notes of progress: 
 June 7, begin to learn tmerge() function for using time-varying covariates
+        new variables can be created by using tdc, event, ecun, and
         I forgot the last option for creating a new variable, but will add 
-        it tomorrow. 
+        it tomorrow
